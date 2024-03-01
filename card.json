@@ -1,0 +1,33 @@
+{
+    "iphone" :
+    [
+        {
+           "p_id" : 1,
+           "p_name" : "iphone 12 pro max",
+           "p_price" : "$1000",
+           "p_img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpGaNZve0aAMH9En4cwJeoHVYpIiEAQFvkfAQ9mCROXZVsdgl-BiZEoyQLBtzoyCIZIvc&usqp=CAU",
+           "p_des" : "describtion"
+        },
+        {
+            "p_id" : 2,
+            "p_name" : "iphone 13 pro max",
+            "p_price" : "$1000",
+            "p_img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpGaNZve0aAMH9En4cwJeoHVYpIiEAQFvkfAQ9mCROXZVsdgl-BiZEoyQLBtzoyCIZIvc&usqp=CAU",
+            "p_des" : "describtion"
+         },
+         {
+            "p_id" : 3,
+            "p_name" : "iphone 14 pro max",
+            "p_price" : "$1000",
+            "p_img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpGaNZve0aAMH9En4cwJeoHVYpIiEAQFvkfAQ9mCROXZVsdgl-BiZEoyQLBtzoyCIZIvc&usqp=CAU",
+            "p_des" : "describtion"
+         },
+         {
+            "p_id" : 4,
+            "p_name" : "iphone 15 pro max",
+            "p_price" : "$1000",
+            "p_img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpGaNZve0aAMH9En4cwJeoHVYpIiEAQFvkfAQ9mCROXZVsdgl-BiZEoyQLBtzoyCIZIvc&usqp=CAU",
+            "p_des" : "describtion"
+         }
+    ]
+}
